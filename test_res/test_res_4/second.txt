@@ -1,0 +1,166 @@
+Swapped languages:
+0. OBJECTORIENTED.
+Name: wihgwhmfiybcdjcjstwzmdzzrd,
+Popularity: 38.929944956092534,
+Year = 1969,
+Inheritance: interface.
+Parameter value: 75.73076923076923.
+
+1. FUNCTIONAL.
+Name: ffffffffffffff,
+Popularity: 14.0,
+Year = 1987,
+Type: static,
+Supports lazy evaluation: True.
+Parameter value: 141.92857142857142.
+
+2. OBJECTORIENTED.
+Name: oooooooooooooooooooooooo,
+Popularity: 1.0,
+Year = 2000,
+Inheritance: multiple.
+Parameter value: 83.33333333333333.
+
+3. OBJECTORIENTED.
+Name: hcgbbtmzqeg,
+Popularity: 82.69316654700198,
+Year = 1981,
+Inheritance: interface.
+Parameter value: 180.0909090909091.
+
+4. FUNCTIONAL.
+Name: ffffffffffffff,
+Popularity: 14.0,
+Year = 1987,
+Type: static,
+Supports lazy evaluation: True.
+Parameter value: 141.92857142857142.
+
+5. OBJECTORIENTED.
+Name: oooooooooooooooooooooooo,
+Popularity: 1.0,
+Year = 2000,
+Inheritance: multiple.
+Parameter value: 83.33333333333333.
+
+6. OBJECTORIENTED.
+Name: ktktvvsjdyihrrwzkmrpefx,
+Popularity: 77.75181402177893,
+Year = 1962,
+Inheritance: multiple.
+Parameter value: 85.30434782608695.
+
+7. FUNCTIONAL.
+Name: ffffffffffffff,
+Popularity: 14.0,
+Year = 1987,
+Type: static,
+Supports lazy evaluation: True.
+Parameter value: 141.92857142857142.
+
+8. OBJECTORIENTED.
+Name: oooooooooooooooooooooooo,
+Popularity: 1.0,
+Year = 2000,
+Inheritance: multiple.
+Parameter value: 83.33333333333333.
+
+9. OBJECTORIENTED.
+Name: ycuneuqmdmkmvnpqvsiggddcafnfqiujkfdwc,
+Popularity: 92.45974388362865,
+Year = 2014,
+Inheritance: interface.
+Parameter value: 54.432432432432435.
+
+10. FUNCTIONAL.
+Name: ffffffffffffff,
+Popularity: 14.0,
+Year = 1987,
+Type: static,
+Supports lazy evaluation: True.
+Parameter value: 141.92857142857142.
+
+11. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+12. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+13. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+14. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+15. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+16. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+17. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+18. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+19. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+20. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+21. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+22. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+

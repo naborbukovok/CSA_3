@@ -1,0 +1,9430 @@
+There are 1347 languages in container:
+0. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+2. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+3. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+4. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+5. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+6. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+7. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+8. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+9. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+10. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+11. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+12. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+13. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+14. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+15. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+16. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+17. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+18. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+19. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+20. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+21. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+22. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+23. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+24. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+25. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+26. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+27. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+28. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+29. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+30. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+31. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+32. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+33. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+34. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+35. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+36. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+37. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+38. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+39. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+40. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+41. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+42. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+43. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+44. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+45. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+46. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+47. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+48. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+49. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+50. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+51. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+52. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+53. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+54. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+55. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+56. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+57. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+58. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+59. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+60. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+61. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+62. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+63. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+64. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+65. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+66. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+67. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+68. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+69. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+70. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+71. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+72. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+73. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+74. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+75. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+76. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+77. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+78. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+79. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+80. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+81. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+82. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+83. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+84. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+85. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+86. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+87. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+88. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+89. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+90. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+91. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+92. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+93. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+94. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+95. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+96. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+97. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+98. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+99. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+100. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+101. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+102. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+103. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+104. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+105. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+106. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+107. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+108. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+109. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+110. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+111. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+112. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+113. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+114. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+115. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+116. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+117. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+118. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+119. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+120. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+121. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+122. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+123. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+124. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+125. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+126. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+127. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+128. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+129. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+130. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+131. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+132. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+133. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+134. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+135. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+136. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+137. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+138. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+139. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+140. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+141. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+142. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+143. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+144. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+145. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+146. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+147. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+148. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+149. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+150. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+151. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+152. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+153. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+154. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+155. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+156. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+157. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+158. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+159. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+160. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+161. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+162. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+163. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+164. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+165. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+166. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+167. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+168. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+169. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+170. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+171. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+172. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+173. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+174. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+175. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+176. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+177. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+178. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+179. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+180. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+181. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+182. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+183. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+184. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+185. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+186. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+187. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+188. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+189. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+190. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+191. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+192. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+193. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+194. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+195. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+196. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+197. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+198. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+199. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+200. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+201. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+202. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+203. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+204. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+205. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+206. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+207. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+208. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+209. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+210. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+211. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+212. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+213. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+214. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+215. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+216. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+217. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+218. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+219. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+220. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+221. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+222. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+223. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+224. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+225. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+226. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+227. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+228. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+229. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+230. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+231. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+232. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+233. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+234. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+235. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+236. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+237. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+238. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+239. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+240. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+241. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+242. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+243. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+244. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+245. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+246. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+247. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+248. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+249. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+250. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+251. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+252. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+253. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+254. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+255. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+256. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+257. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+258. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+259. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+260. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+261. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+262. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+263. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+264. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+265. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+266. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+267. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+268. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+269. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+270. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+271. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+272. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+273. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+274. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+275. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+276. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+277. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+278. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+279. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+280. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+281. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+282. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+283. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+284. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+285. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+286. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+287. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+288. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+289. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+290. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+291. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+292. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+293. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+294. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+295. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+296. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+297. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+298. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+299. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+300. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+301. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+302. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+303. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+304. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+305. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+306. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+307. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+308. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+309. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+310. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+311. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+312. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+313. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+314. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+315. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+316. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+317. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+318. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+319. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+320. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+321. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+322. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+323. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+324. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+325. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+326. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+327. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+328. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+329. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+330. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+331. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+332. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+333. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+334. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+335. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+336. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+337. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+338. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+339. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+340. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+341. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+342. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+343. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+344. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+345. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+346. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+347. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+348. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+349. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+350. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+351. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+352. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+353. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+354. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+355. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+356. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+357. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+358. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+359. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+360. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+361. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+362. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+363. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+364. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+365. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+366. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+367. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+368. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+369. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+370. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+371. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+372. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+373. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+374. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+375. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+376. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+377. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+378. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+379. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+380. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+381. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+382. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+383. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+384. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+385. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+386. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+387. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+388. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+389. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+390. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+391. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+392. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+393. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+394. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+395. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+396. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+397. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+398. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+399. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+400. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+401. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+402. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+403. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+404. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+405. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+406. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+407. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+408. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+409. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+410. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+411. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+412. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+413. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+414. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+415. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+416. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+417. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+418. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+419. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+420. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+421. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+422. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+423. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+424. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+425. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+426. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+427. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+428. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+429. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+430. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+431. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+432. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+433. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+434. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+435. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+436. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+437. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+438. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+439. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+440. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+441. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+442. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+443. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+444. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+445. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+446. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+447. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+448. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+449. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+450. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+451. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+452. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+453. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+454. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+455. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+456. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+457. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+458. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+459. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+460. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+461. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+462. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+463. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+464. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+465. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+466. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+467. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+468. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+469. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+470. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+471. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+472. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+473. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+474. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+475. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+476. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+477. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+478. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+479. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+480. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+481. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+482. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+483. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+484. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+485. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+486. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+487. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+488. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+489. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+490. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+491. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+492. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+493. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+494. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+495. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+496. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+497. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+498. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+499. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+500. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+501. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+502. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+503. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+504. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+505. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+506. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+507. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+508. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+509. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+510. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+511. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+512. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+513. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+514. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+515. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+516. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+517. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+518. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+519. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+520. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+521. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+522. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+523. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+524. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+525. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+526. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+527. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+528. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+529. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+530. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+531. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+532. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+533. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+534. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+535. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+536. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+537. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+538. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+539. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+540. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+541. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+542. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+543. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+544. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+545. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+546. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+547. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+548. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+549. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+550. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+551. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+552. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+553. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+554. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+555. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+556. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+557. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+558. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+559. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+560. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+561. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+562. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+563. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+564. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+565. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+566. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+567. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+568. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+569. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+570. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+571. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+572. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+573. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+574. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+575. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+576. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+577. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+578. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+579. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+580. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+581. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+582. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+583. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+584. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+585. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+586. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+587. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+588. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+589. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+590. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+591. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+592. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+593. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+594. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+595. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+596. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+597. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+598. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+599. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+600. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+601. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+602. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+603. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+604. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+605. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+606. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+607. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+608. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+609. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+610. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+611. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+612. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+613. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+614. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+615. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+616. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+617. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+618. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+619. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+620. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+621. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+622. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+623. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+624. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+625. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+626. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+627. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+628. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+629. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+630. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+631. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+632. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+633. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+634. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+635. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+636. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+637. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+638. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+639. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+640. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+641. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+642. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+643. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+644. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+645. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+646. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+647. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+648. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+649. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+650. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+651. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+652. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+653. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+654. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+655. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+656. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+657. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+658. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+659. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+660. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+661. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+662. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+663. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+664. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+665. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+666. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+667. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+668. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+669. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+670. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+671. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+672. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+673. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+674. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+675. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+676. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+677. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+678. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+679. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+680. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+681. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+682. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+683. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+684. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+685. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+686. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+687. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+688. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+689. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+690. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+691. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+692. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+693. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+694. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+695. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+696. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+697. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+698. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+699. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+700. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+701. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+702. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+703. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+704. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+705. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+706. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+707. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+708. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+709. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+710. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+711. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+712. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+713. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+714. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+715. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+716. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+717. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+718. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+719. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+720. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+721. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+722. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+723. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+724. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+725. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+726. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+727. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+728. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+729. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+730. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+731. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+732. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+733. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+734. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+735. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+736. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+737. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+738. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+739. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+740. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+741. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+742. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+743. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+744. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+745. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+746. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+747. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+748. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+749. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+750. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+751. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+752. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+753. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+754. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+755. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+756. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+757. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+758. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+759. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+760. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+761. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+762. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+763. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+764. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+765. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+766. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+767. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+768. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+769. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+770. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+771. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+772. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+773. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+774. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+775. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+776. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+777. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+778. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+779. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+780. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+781. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+782. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+783. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+784. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+785. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+786. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+787. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+788. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+789. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+790. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+791. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+792. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+793. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+794. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+795. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+796. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+797. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+798. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+799. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+800. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+801. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+802. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+803. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+804. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+805. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+806. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+807. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+808. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+809. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+810. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+811. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+812. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+813. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+814. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+815. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+816. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+817. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+818. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+819. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+820. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+821. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+822. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+823. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+824. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+825. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+826. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+827. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+828. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+829. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+830. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+831. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+832. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+833. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+834. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+835. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+836. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+837. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+838. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+839. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+840. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+841. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+842. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+843. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+844. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+845. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+846. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+847. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+848. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+849. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+850. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+851. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+852. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+853. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+854. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+855. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+856. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+857. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+858. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+859. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+860. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+861. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+862. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+863. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+864. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+865. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+866. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+867. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+868. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+869. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+870. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+871. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+872. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+873. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+874. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+875. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+876. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+877. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+878. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+879. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+880. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+881. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+882. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+883. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+884. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+885. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+886. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+887. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+888. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+889. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+890. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+891. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+892. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+893. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+894. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+895. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+896. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+897. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+898. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+899. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+900. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+901. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+902. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+903. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+904. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+905. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+906. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+907. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+908. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+909. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+910. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+911. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+912. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+913. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+914. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+915. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+916. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+917. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+918. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+919. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+920. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+921. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+922. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+923. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+924. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+925. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+926. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+927. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+928. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+929. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+930. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+931. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+932. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+933. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+934. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+935. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+936. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+937. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+938. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+939. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+940. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+941. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+942. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+943. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+944. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+945. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+946. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+947. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+948. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+949. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+950. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+951. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+952. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+953. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+954. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+955. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+956. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+957. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+958. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+959. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+960. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+961. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+962. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+963. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+964. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+965. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+966. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+967. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+968. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+969. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+970. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+971. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+972. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+973. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+974. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+975. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+976. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+977. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+978. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+979. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+980. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+981. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+982. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+983. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+984. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+985. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+986. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+987. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+988. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+989. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+990. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+991. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+992. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+993. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+994. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+995. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+996. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+997. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+998. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+999. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1000. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1001. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1002. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1003. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1004. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1005. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1006. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1007. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1008. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1009. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1010. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1011. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1012. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1013. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1014. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1015. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1016. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1017. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1018. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1019. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1020. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1021. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1022. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1023. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1024. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1025. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1026. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1027. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1028. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1029. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1030. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1031. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1032. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1033. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1034. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1035. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1036. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1037. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1038. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1039. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1040. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1041. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1042. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1043. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1044. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1045. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1046. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1047. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1048. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1049. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1050. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1051. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1052. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1053. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1054. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1055. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1056. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1057. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1058. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1059. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1060. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1061. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1062. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1063. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1064. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1065. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1066. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1067. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1068. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1069. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1070. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1071. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1072. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1073. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1074. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1075. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1076. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1077. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1078. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1079. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1080. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1081. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1082. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1083. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1084. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1085. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1086. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1087. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1088. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1089. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1090. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1091. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1092. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1093. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1094. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1095. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1096. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1097. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1098. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1099. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1100. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1101. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1102. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1103. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1104. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1105. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1106. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1107. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1108. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1109. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1110. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1111. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1112. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1113. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1114. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1115. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1116. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1117. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1118. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1119. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1120. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1121. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1122. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1123. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1124. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1125. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1126. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1127. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1128. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1129. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1130. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1131. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1132. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1133. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1134. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1135. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1136. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1137. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1138. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1139. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1140. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1141. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1142. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1143. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1144. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1145. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1146. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1147. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1148. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1149. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1150. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1151. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1152. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1153. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1154. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1155. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1156. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1157. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1158. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1159. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1160. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1161. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1162. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1163. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1164. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1165. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1166. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1167. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1168. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1169. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1170. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1171. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1172. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1173. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1174. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1175. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1176. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1177. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1178. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1179. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1180. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1181. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1182. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1183. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1184. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1185. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1186. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1187. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1188. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1189. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1190. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1191. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1192. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1193. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1194. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1195. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1196. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1197. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1198. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1199. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1200. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1201. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1202. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1203. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1204. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1205. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1206. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1207. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1208. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1209. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1210. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1211. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1212. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1213. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1214. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1215. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1216. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1217. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1218. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1219. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1220. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1221. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1222. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1223. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1224. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1225. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1226. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1227. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1228. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1229. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1230. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1231. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1232. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1233. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1234. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1235. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1236. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1237. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1238. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1239. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1240. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1241. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1242. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1243. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1244. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1245. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1246. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1247. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1248. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1249. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1250. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1251. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1252. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1253. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1254. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1255. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1256. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1257. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1258. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1259. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1260. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1261. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1262. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1263. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1264. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1265. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1266. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1267. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1268. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1269. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1270. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1271. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1272. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1273. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1274. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1275. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1276. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1277. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1278. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1279. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1280. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1281. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1282. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1283. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1284. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1285. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1286. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1287. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1288. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1289. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1290. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1291. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1292. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1293. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1294. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1295. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1296. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1297. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1298. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1299. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1300. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1301. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1302. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1303. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1304. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1305. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1306. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1307. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1308. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1309. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1310. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1311. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1312. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1313. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1314. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1315. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1316. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1317. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1318. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1319. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1320. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1321. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1322. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1323. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1324. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1325. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1326. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1327. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1328. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1329. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1330. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1331. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1332. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1333. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1334. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1335. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1336. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1337. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1338. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1339. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1340. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1341. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1342. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1343. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
+1344. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1345. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+1346. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+

@@ -1,0 +1,22 @@
+Swapped languages:
+0. FUNCTIONAL.
+Name: funct,
+Popularity: 99.0,
+Year = 2021,
+Type: dynamic,
+Supports lazy evaluation: True.
+Parameter value: 404.2.
+
+1. OBJECTORIENTED.
+Name: object,
+Popularity: 45.0,
+Year = 1999,
+Inheritance: interface.
+Parameter value: 333.1666666666667.
+
+2. PROCEDURAL.Name: proc,
+Popularity: 30.0,
+Year = 2010,
+Has abstract data types: True.
+Parameter value: 502.5.
+
